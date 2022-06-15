@@ -154,6 +154,6 @@ else
 
         public bool IsNotice => Body.StartsWith("[Notice]");
 
-        public string CssClass => IsNotice ? "sent" : "received";
+        public string CssClass => IsMine ? "sent" : "received";
     }
 }
