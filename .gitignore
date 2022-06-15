@@ -1,2 +1,5 @@
 # Rider ignored files
 /.idea
+
+**/bin/*
+**/obj/*

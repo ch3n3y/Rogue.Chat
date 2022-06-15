@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rogue.Chat", "Rogue.Chat\Rogue.Chat.csproj", "{FE8D5EEA-1397-4386-9EE4-3DA683E82265}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rogue.Chat.Ui", "Rogue.Chat.Ui\Rogue.Chat.Ui.csproj", "{293C49CB-AC5A-4F8B-970C-21DC06DD1697}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FE8D5EEA-1397-4386-9EE4-3DA683E82265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE8D5EEA-1397-4386-9EE4-3DA683E82265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE8D5EEA-1397-4386-9EE4-3DA683E82265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293C49CB-AC5A-4F8B-970C-21DC06DD1697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293C49CB-AC5A-4F8B-970C-21DC06DD1697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293C49CB-AC5A-4F8B-970C-21DC06DD1697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293C49CB-AC5A-4F8B-970C-21DC06DD1697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
